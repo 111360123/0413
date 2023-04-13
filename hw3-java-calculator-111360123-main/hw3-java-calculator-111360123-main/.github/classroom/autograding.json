@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Addition and Subtraction",
+      "setup": "",
+      "run": "gradle test --tests 'CalculatorFormTest.testAddSub'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Multiplication",
+      "setup": "",
+      "run": "gradle test --tests 'CalculatorFormTest.testMultiply'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Division",
+      "setup": "",
+      "run": "gradle test --tests 'CalculatorFormTest.testDivision'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Floating point",
+      "setup": "",
+      "run": "gradle test --tests 'CalculatorFormTest.testFloatingPoint'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    }
+  ]
+}

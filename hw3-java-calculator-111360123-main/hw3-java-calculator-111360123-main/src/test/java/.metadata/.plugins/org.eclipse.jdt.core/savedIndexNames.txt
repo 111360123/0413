@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Users\user\OneDrive\桌面\hw3-java-calculator-111360123-main\hw3-java-calculator-111360123-main\src\test\java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
